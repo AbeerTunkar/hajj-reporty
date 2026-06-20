@@ -1144,7 +1144,7 @@
                             total: {
                                 show: true,
                                 showAlways: true,
-                                label: 'كم نسبة راضي عن الموسم؟',
+                                label: 'كم نسبة رضاي عن الموسم؟',
                                 fontSize: '10px',
                                 fontFamily: 'IBM Plex Sans Arabic',
                                 fontWeight: 600,
